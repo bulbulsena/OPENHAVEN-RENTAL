@@ -63,6 +63,7 @@ Harita sayfası, uygulama geliştiricisinin konumunu gösterir. Bu özellik, gel
 ## Video
 Uygulamanın nasıl çalıştığını ve tüm işlevlerini anlatan videoya aşağıdaki YouTube linkinden ulaşabilirsiniz:
 [[YouTube Linki]](https://www.youtube.com/shorts/n-ZLWBpN3Do)
+
 Aynı zamanda kod işlevlerini anlattığımız içeriğimiz için de bu videoyu izleyebilirsiniz:
 [[YouTube Linki]](https://youtube.com/shorts/72LATE7EdKM)
 
